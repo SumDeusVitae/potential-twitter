@@ -1,0 +1,4 @@
+Fullstack web application.
+Server-rendered and search-engine optimized forum.
+Connected with google api for authentifications, sharing posts and liking them, mby will add comments section.
+Using: Next.js, Vite, React, Supabase, PostgreSQL, Docker, GIT, Tailwind.
